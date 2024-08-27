@@ -32,9 +32,10 @@ Provided actionable insights and strategic recommendations for Olist's operation
 Results
 The project successfully delivered accurate sales forecasts, leading to improved inventory management, better marketing campaign planning, more precise financial projections, and enhanced supply chain operations. These improvements contributed to overall business growth and customer satisfaction.
 
-Technologies Used
+Technologies Used:
 Programming Languages: Python
 Data Analysis Libraries: Pandas, NumPy, Scikit-learn
 Time Series Forecasting Libraries: statsmodels (for ARIMA and SARIMA), Prophet
+
 Visualization Tools: Matplotlib, Seaborn
 Project Management: Jupyter Notebook
